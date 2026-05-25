@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@import '@fontsource-variable/space-grotesk';
-@import '@fontsource-variable/inter';
+@import '@fontsource-variable/radio-canada-big';
+@import '@fontsource-variable/spline-sans';
 
 @theme {
   /* Base Colors - Theme used in @layer base{...} */
@@ -11,8 +11,8 @@
   --color-textrain: #7d7b9c;
 
   /* Fonts */
-  --font-heading: "Space Grotesk Variable", sans-serif;
-  --font-body: "Inter Variable", sans-serif;
+  --font-heading: "Radio Canada Big Variable", sans-serif;
+  --font-body: "Spline Sans Variable", sans-serif;
 
   /* Custom Animations */
   --animate-fall: fall linear forwards;
@@ -96,7 +96,7 @@
   /* Executive Minimalist - Dark */
   [data-theme="executive-dark"] {
     --color-background: #121212;
-    --color-accent: #EAB308;
+    --color-accent: #f4a66b;
     --color-maintext: #FAFAF9;
     --color-subtext: #dad0c9;
     --color-textrain: #777271;
@@ -104,8 +104,8 @@
 
   /* Executive Minimalist - Light */
   [data-theme="executive-light"] {
-    --color-background: #FCF8F1;
-    --color-accent: #B45309;
+    --color-background: #fffbf4;
+    --color-accent: #b45309;
     --color-maintext: #1C1917;
     --color-subtext: #71665f;
     --color-textrain: #e2a787;
@@ -121,9 +121,9 @@
     @apply font-body antialiased text-maintext;
     background: linear-gradient(
       135deg,    
-      color-mix(in srgb, var(--color-background), black 16%) 0%,
+      color-mix(in srgb, var(--color-background), black 0%) 0%,
       var(--color-background) 50%,
-      color-mix(in srgb, var(--color-background), white 16%) 100%
+      color-mix(in srgb, var(--color-background), white 0%) 100%
     );
     background-attachment: fixed;
     min-height: 100vh;

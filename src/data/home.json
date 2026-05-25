@@ -1,70 +1,70 @@
 {
-  "name": "John Doe",
+  "name": "Rogelio Dimakiling Jr.",
   "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "intro": "Computer Engineer and former public school teacher who spent 4 years building automation systems that eliminated 100% of manual reporting across an entire school. Now transitioning into AI/LLM Engineering — building production-ready systems with Python, FastAPI, and modern AI tooling.",
+  "introHtml": "Computer Engineer and former public school teacher who spent 4 years building <span class='text-white font-bold'>automation systems</span> that eliminated 100% of manual reporting. Now transitioning into <span class='text-white font-bold'>AI/LLM Engineering</span> — building <span class='text-white font-bold'>production-ready systems</span> with Python, FastAPI, and modern AI tooling.",
+  "webpageTitle": "Rogelio Dimakiling Jr.",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/roohuello",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/rogeliodimakilingjr",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
     {
       "name": "Leetcode",
-      "url": "#",
+      "url": "",
       "icon": "devicon-plain:leetcode",
       "showInContact": false
     },
     {
       "name": "Behance",
-      "url": "#",
+      "url": "",
       "icon": "devicon-plain:behance",
       "showInContact": false
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:rogeliodimakiling@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "",
       "icon": "mdi:whatsapp",
-      "showInContact": true
+      "showInContact": false
     },
     {
       "name": "Facebook",
-      "url": "#",
+      "url": "",
       "icon": "mdi:facebook",
       "showInContact": false
     },
     {
       "name": "Messenger",
-      "url": "#",
+      "url": "",
       "icon": "mdi:facebook-messenger",
-      "showInContact": true
+      "showInContact": false
     },
     {
       "name": "Instagram",
-      "url": "#",
+      "url": "",
       "icon": "mdi:instagram",
       "showInContact": false
     },
     {
       "name": "Twitter",
-      "url": "#",
+      "url": "",
       "icon": "mdi:twitter",
       "showInContact": false
     }

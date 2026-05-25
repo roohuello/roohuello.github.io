@@ -1,26 +1,18 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "DepEd - Biliran National Agricultural HS",
+    "role": "Special Science Teacher I",
+    "period": "Oct 2021 – Mar 2026",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Taught Math and ICT while serving as ICT Coordinator and SMEA data lead. Built VBA automation that eliminated 100% of manual reporting across 50+ faculty, reducing quarterly report generation from days to minutes. Maintained ICT infrastructure, coached student publications to national-level competition, and managed school-wide data systems.",
+    "skills": ["Office 365", "IT Support", "Data Analysis", "Graphic Design"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
-  },
-  {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "Biliran Province State University (BiPSU)",
+    "role": "BS in Computer Engineering",
+    "period": "Jun 2015 – Dec 2020",
     "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "Graduated with GWA 1.55. DOST Junior Level Science Scholar. Served as editor of The Pillar publication and active member of ICpEP. Built foundation in programming, algorithms, and embedded systems.",
+    "skills": ["C", "Web Development", "Microcontrollers"]
   }
 ]

@@ -1,35 +1,28 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "AI & LLM Engineering",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "Python", "level": 2, "icon": "vscode-icons:file-type-python" },
+        { "name": "FastAPI", "level": 1, "icon": "skill-icons:fastapi" },
+        { "name": "LangChain", "level": 1, "icon": "mdi:link-variant" },
+        { "name": "LLM APIs", "level": 1, "icon": "logos:openai-icon" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Data & Automation",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
+        { "name": "SQL", "level": 2, "icon": "vscode-icons:file-type-pgsql" },
+        { "name": "Pandas", "level": 1, "icon": "logos:pandas-icon" },
+        { "name": "NumPy", "level": 1, "icon": "logos:numpy" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Tools & DevOps",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
-      ]
-    },
-    {
-      "title": "Database",
-      "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Git", "level": 2, "icon": "skill-icons:git" },
+        { "name": "Docker", "level": 1, "icon": "skill-icons:docker" }
       ]
     }
   ]
